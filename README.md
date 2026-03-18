@@ -25,5 +25,3 @@ The approach encodes the Hamming weight into quantum phase using controlled rota
 - Up to 69% reduction in T-gate count for larger input sizes
 - Sublinear growth in optimized circuit complexity compared to exact implementation
 - Demonstrated trade-off between phase accuracy and gate efficiency
-
-## Repository Structure
